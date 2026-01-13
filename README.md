@@ -1,6 +1,6 @@
-# My First Spring Boot API: Product Management
+My First Spring Boot API: Product Management
 
-Hello! 👋 This project was developed by **Umud Kalbizada** to learn the fundamentals of backend development using Java and Spring Boot. It was created as part of Task 2.A for studies at Vistula University.
+This project was developed by **Umud Kalbizada** to learn the fundamentals of backend development using Java and Spring Boot. It was created as part of Task 2.A for studies at Vistula University.
 
 What Is This Project?
 
@@ -23,7 +23,7 @@ Data Layer
 Mapping & DTOs
   `ProductRequest` and `ProductResponse` classes ensure that data entering and leaving the API is clean, validated, and well-structured.
 
- How It Works in Practice
+How It Works in Practice
 
 1. A POST request is sent to the API endpoint (for example, to add a new product).
 2. The incoming JSON data is converted into a Java object.
@@ -31,12 +31,8 @@ Mapping & DTOs
 4. The product is stored in the in-memory repository.
 5. The API responds with HTTP 201 (Created) and returns the newly created product details.
 
- How to Test It
+How to Test It
 
 You can run this project in IntelliJ IDEA and use a tool like Postman to test the available endpoints.
-
----
-
-Created for educational purposes at Vistula University.
 
 Author:Umud Kalbizada
