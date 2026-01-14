@@ -42,6 +42,6 @@ Author:Umud Kalbizada
 ![PHOTO-2026-01-14-08-51-43](https://github.com/user-attachments/assets/66d2704a-1c3b-4d6c-99b2-4dbe2811dc4a)
 ![PHOTO-2026-01-14-08-51-43](https://github.com/user-attachments/assets/10b14fa3-4cb4-4e10-9dcb-f6ee773e8426)
 ![PHOTO-2026-01-14-08-51-44](https://github.com/user-attachments/assets/5894cd83-c083-4539-9bf2-ae16cc997f4f)
-![PHOTO-2026-01-14-08-51-45](https://github.com/user-attachmen![PHOTO-2026-01-14-08-51-45](https://github.com/user-attachments/assets/88c60a43-ecbf-4367-b6ab-e63c94288a39)
-ts/assets/20b6f1ab-ac57-4f4a-9da6-e41fc2db6b20)
+![PHOTO-2026-01-14-08-51-45](https://github.com/user-attachments/assets/20b6f1ab-ac57-4f4a-9da6-e41fc2db6b20)
+![PHOTO-2026-01-14-08-51-45](https://github.com/user-attachments/assets/88c60a43-ecbf-4367-b6ab-e63c94288a39)
 
